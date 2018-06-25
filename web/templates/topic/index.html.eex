@@ -1,0 +1,4 @@
+<form>
+  <input type="text" name="topic" placeholder="Enter a Topic">
+  <input type="submit">
+</form>
